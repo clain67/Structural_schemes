@@ -1,5 +1,6 @@
-# Structural_schemes
-Main folder 
+## Structural schemes library and examples
+#Main folder 
+
 The codes use the nice library qd developed by Yozo Hida, Xiaoye S. Li, and  David H. Bailey, see https://web.mit.edu/tabbott/Public/quaddouble-debian/qd-2.3.4-old/docs/qd.pdf
 I provide the .zip file you must compile first to access to the dd.h and qd.h functionality 
 
