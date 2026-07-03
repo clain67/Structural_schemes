@@ -1,1 +1,3 @@
+a simple home-made header-file style linear algebra library design to handle the double-double (dd) and quad double (qd) format.
+no precompilation is needed, just put #include PATH/qdMatrix.h in the header of your code.
 
