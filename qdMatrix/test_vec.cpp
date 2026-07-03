@@ -1,6 +1,6 @@
 //g++  test_vec.cpp -O2 -lqd -o test_vec
 #include<iostream>
-#include"../include/qdMatrix.h"
+#include"../qdMatrix.h"
 
 #define ERR_TOL 1.0e-20
 #define DIM 2
