@@ -1,6 +1,6 @@
 //g++ test_mat.cpp -O2 -lqd  -o test_mat
 #include<iostream>
-#include"../include/qdMatrix.h"
+#include"../qdMatrix.h"
 using std::endl;
 using std::cout;
 
