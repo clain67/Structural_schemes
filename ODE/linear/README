@@ -1,1 +1,2 @@
-
+Resolution of the linear problem $u'=\lambda u$ using collocation method (CLxx) or structural method ZD (K=1), ZDS (K=2), ZDST (R=3)
+have to include header file to access to the qdMatrix.h library
