@@ -1,6 +1,6 @@
 //g++ test_op.cpp -O2 -lqd -o test_op
 #include<iostream>
-#include"../include/qdMatrix.h"
+#include"../qdMatrix.h"
 using std::endl;
 using std::cout;
 
